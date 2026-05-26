@@ -1,0 +1,46 @@
+.logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.about-container{
+    background-color: lightgray;
+}
+.education-container{
+ background-color: darkseagreen;
+}
+.circle{
+    background-color: cornflowerblue;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+}
+.project-container{
+
+
+
+    
+}
+.co-curricular{
+    background-color: cadetblue;
+}
+.login-container{
+    background-color: rgb(239, 191, 68);
+}
+.footer{
+    background-color: rgb(125, 81, 104);
+    text-decoration-color: azure;
+    text-align: center;
+    text-color:white;
+
+
+
+}
+.circle10{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: aliceblue;
+}
